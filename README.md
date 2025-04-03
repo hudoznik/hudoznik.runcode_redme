@@ -1,5 +1,8 @@
-![Иллюстрация к проекту](https://github.com/hudoznik/hudoznik.runcode_redme/raw/master/Настройка_подключения.png)
+### Настройка подключения
+![Иллюстрация к проекту](https://raw.githubusercontent.com/hudoznik/hudoznik.runcode_redme/refs/heads/main/Настройка_подключения.png)
 
+### Настройка алгоритма
+![Иллюстрация к проекту](https://raw.githubusercontent.com/hudoznik/hudoznik.runcode_redme/refs/heads/main/Пример_заполнения_алгоритма.png)
 
 
 ## Чтобы записывать лог в базу 
