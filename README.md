@@ -1,3 +1,5 @@
+![infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+
 ## Установка в модуля битрикс:
 
 В браузере где выполнен вход в битрикс с правами администратора 
