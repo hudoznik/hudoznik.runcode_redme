@@ -1,3 +1,12 @@
+## Установка в модуля битрикс:
+
+В браузере где выполнен вход в битрикс с правами администратора 
+перейти по ссылке
+```bash
+https://[Ваш сайт]/bitrix/admin/update_system_partner.php?lang=ru&addmodule=hudoznik.runcode
+```
+и согласиться с условиями
+
 ### Настройка подключения
 ![Иллюстрация к проекту](https://raw.githubusercontent.com/hudoznik/hudoznik.runcode_redme/refs/heads/main/Настройка_подключения.png)
 
