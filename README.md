@@ -1,4 +1,4 @@
-![Иллюстрация к проекту](https://github.com/hudoznik/hudoznik.runcode_redme/raw/master/Настройка подключения.png)
+![Иллюстрация к проекту](https://github.com/hudoznik/hudoznik.runcode_redme/raw/master/Настройка_подключения.png)
 
 
 
