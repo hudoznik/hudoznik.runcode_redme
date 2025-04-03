@@ -1,4 +1,5 @@
-![infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)  Приобрести можно по ссылке: https://infostart.ru/marketplace/2349504/
+![infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg) 
+Приобрести можно по ссылке: https://infostart.ru/marketplace/2349504/
 
 ## Установка в модуля битрикс:
 
